@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+sqlalchemy==2.0.35
+pyodbc==5.1.0
+python-jose==3.3.0
+passlib==1.7.4
+pydantic[email]==2.9.2
+python-multipart==0.0.9
+numpy==2.1.1
+Pillow==10.4.0
